@@ -1,6 +1,6 @@
 import axios from "axios";
 
 export const api = axios.create({
-  baseURL: "https://shape-api-project.herokuapp.com",
+  baseURL: "https://shape-api-kxmg.onrender.com",
   timeout: 10000,
 });
